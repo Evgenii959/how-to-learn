@@ -1,9 +1,12 @@
-.footer__column-link{
-    font-weight: normal;
-    text-align: left;
-    font-size: 18px;
-    line-height: 30px;
-    color: white;
-    text-decoration: none;
-    margin: 0;
-  }
+.footer__column-link {
+  font-weight: normal;
+  text-align: left;
+  font-size: 18px;
+  line-height: 30px;
+  color: white;
+  text-decoration: none;
+  margin: 0;
+}
+.footer__column-link:hover {
+  opacity: 0.5;
+}
