@@ -1,13 +1,5 @@
-@keyframes rotation {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-.kaufman__triangle{
-  background-image: url(/images/kaufman-triangle.svg);
+.kaufman__triangle {
+  background-image: url(../../../images/kaufman-triangle.svg);
   background-size: cover;
   height: 877px;
   width: 877px;
