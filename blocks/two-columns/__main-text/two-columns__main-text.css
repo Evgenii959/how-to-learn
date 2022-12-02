@@ -3,7 +3,7 @@
   font-weight: normal;
   line-height: 34px;
   min-width: 784px;
-  width: 80%;
+  max-width: 80%;
   color: #000000;
   margin: 0;
 }
